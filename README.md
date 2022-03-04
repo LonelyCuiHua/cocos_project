@@ -7,7 +7,7 @@ study cocos by project brid
 
 将app文件夹中的文件复制到工程对应的src/app的目录下
 
-将src文件中的资源复制到工程对应的res
+将res文件中的资源复制到工程对应的res
 
 运行游戏
 
